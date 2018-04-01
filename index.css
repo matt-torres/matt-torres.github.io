@@ -19,7 +19,29 @@ body{
   width: 100%;
   margin: 0 auto;
 }
-
+img{
+  width: 100%;
+}
+#Levitator{
+  margin-right: auto;
+  margin-left: auto;
+}
+h2{
+  text-align: center;
+}
+#About{
+  padding-top:100px;
+  
+}
+#Projects{
+  padding-top:100px;
+  
+}
+#Resume{
+  padding-top:100px;
+  height: 1000px;
+  
+}
 /* main header */
 
 #main, nav, section, footer{
