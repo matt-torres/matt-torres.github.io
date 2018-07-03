@@ -19,8 +19,25 @@ body{
   width: 100%;
   margin: 0 auto;
 }
+#container{
+	margin-left: 5%;
+	margin-right: 5%;
+}
 img{
-  width: 100%;
+  width: 80%;
+}
+a{
+	color: #0060B6;
+    text-decoration: none;
+}
+a:hover 
+{
+     color:#00A0C6;  
+     cursor:pointer; 
+     text-decoration: unset; 
+}
+p{
+	font-size: 25px;
 }
 #Levitator{
   margin-right: auto;
@@ -28,13 +45,24 @@ img{
 }
 h2{
   text-align: center;
+  text-decoration: underline;
+}
+h4{
+	text-align: center;
+
+}
+h5{
+	font-size: 45px;
 }
 #About{
   padding-top:100px;
+
   
 }
 #Projects{
   padding-top:100px;
+  text-align: center;
+
   
 }
 #Resume{
